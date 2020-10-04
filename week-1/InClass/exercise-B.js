@@ -1,0 +1,5 @@
+console.log("Hola, mundo")
+console.log("Buen clima")
+console.log("Good morning, starshine")
+console.log("Buenas tardes, webber")
+console.log("Welcome to my life")
